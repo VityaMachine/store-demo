@@ -1,0 +1,36 @@
+{
+  "productName": "Шорти Condivo 22 Match Day Performance 2",
+  "productType": "Shorts",
+  "manufacturerName": "adidas",
+  "rate": 4.59,
+  "ratesCount": 22,
+  "availableOptions": [
+
+      {
+          "optionColorScheme": "COLOR_BLACK",
+          "optionImagesLinks": [
+              "http://www.imageserver.com/src/white_shorts_img_1.jpg",
+              "http://www.imageserver.com/src/white_shorts_img_2.jpg",
+              "http://www.imageserver.com/src/white_shorts_img_3.jpg"
+          ],
+          "optionPrices": [
+              {
+                  "size": "30",
+                  "price": 57
+              },
+              {
+                  "size": "32",
+                  "price": 62
+              },
+              {
+                  "size": "34",
+                  "price": 65
+              },
+                              {
+                  "size": "38",
+                  "price": 75
+              }
+          ]
+      }
+  ]
+}
