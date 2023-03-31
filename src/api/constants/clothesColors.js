@@ -43,6 +43,14 @@ const COLOR_SCHEMES = {
     colorName: "purple",
     colorCode: "7149C6",
   },
+  COLOR_GRAY: {
+    colorName: "gray",
+    colorCode: "B2B2B2",
+  },
+  COLOR_DARKGRAY: {
+    colorName: "darkgray",
+    colorCode: "3C4048",
+  },
 };
 
 module.exports = COLOR_SCHEMES;
